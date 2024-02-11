@@ -1,8 +1,3 @@
-<style>
-ul li {
-    list-style-type: disc;
-}
-</style>
 
 ### [Voltar](../readme.md)
 
